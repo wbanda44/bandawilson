@@ -1,0 +1,385 @@
+/* info cards */
+
+.broker {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.broker h3 {
+	text-align: center;
+}
+
+.buy {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.buy h3 {
+	text-align: center;
+}
+
+.sell {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.sell h3 {
+	text-align: center;
+}
+
+.bid {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.bid h3 {
+	text-align: center;
+}
+
+.ask {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.ask h3 {
+	text-align: center;
+}
+
+.spread {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.spread h3 {
+	text-align: center;
+}
+
+.bull {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.bull h3 {
+	text-align: center;
+}
+
+.bear {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.bear h3 {
+	text-align: center;
+}
+
+.limit {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.limit h3 {
+	text-align: center;
+}
+
+.market {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.market h3 {
+	text-align: center;
+}
+
+.good {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.good h3 {
+	text-align: center;
+}
+
+.day {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.day h3 {
+	text-align: center;
+}
+
+.volatility {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.volatility h3 {
+	text-align: center;
+}
+
+.liquidity {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.liquidity h3 {
+	text-align: center;
+}
+
+.volume {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.volume h3 {
+	text-align: center;
+}
+
+.long {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.long h3 {
+	text-align: center;
+}
+
+.down {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.down h3 {
+	text-align: center;
+}
+
+.trading {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.trading h3 {
+	text-align: center;
+}
+
+.dividend {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.dividend h3 {
+	text-align: center;
+}
+
+.exchange {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.exchange h3 {
+	text-align: center;
+}
+
+.execution {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.execution h3 {
+	text-align: center;
+}
+
+.margin {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.margin h3 {
+	text-align: center;
+}
+
+.moving {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.moving h3 {
+	text-align: center;
+}
+
+.portfolio {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.portfolio h3 {
+	text-align: center;
+}
+
+.quote {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.quote h3 {
+	text-align: center;
+}
+
+.rally {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.rally h3 {
+	text-align: center;
+}
+
+.sector {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.sector h3 {
+	text-align: center;
+}
+
+.etf {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.etf h3 {
+	text-align: center;
+}
+
+.adr {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.adr h3 {
+	text-align: center;
+}
+
+.beta {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.beta h3 {
+	text-align: center;
+}
+
+.capital {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.capital h3 {
+	text-align: center;
+}
+
+.blue {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.blue h3 {
+	text-align: center;
+}
+
+.offering {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.offering h3 {
+	text-align: center;
+}
+
+.public {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.public h3 {
+	text-align: center;
+}
+
+.shares {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.shares h3 {
+	text-align: center;
+}
+
+.ipo {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.ipo h3 {
+	text-align: center;
+}
+
+.forex {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.forex h3 {
+	text-align: center;
+}
+
+.hedge {
+	background: var(--primary-color);
+	color: #fff;
+	text-align: justify;
+}
+
+.hedge h3 {
+	text-align: center;
+}
+
+.grid-3 p {
+	text-align: justify;
+}
